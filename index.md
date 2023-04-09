@@ -26,9 +26,11 @@ What text editors do I utilize?
 - VIM
 - Atom (On occasion)
 
-**What are my _goals_ for the next year?**
+What are my goals for the next year?
 - [] Get an internship.
 - [] Grow my professional developement and soft skills.
 - [] Imrove upon my techincal skills including but not exclusive to LeetCode.
 - [] Be able to Bench 225!!
 - [] Hit Diamond in TFT :).
+
+[Back to the top](https://github.com/JosephBurger/GitHubPages/blob/39e3304b788b597342fbc9563025734b523a0425/index.md#hello-i-am-joseph)
